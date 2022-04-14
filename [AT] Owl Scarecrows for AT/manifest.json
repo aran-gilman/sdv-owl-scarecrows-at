@@ -1,0 +1,13 @@
+﻿{
+  "Name": "[AT] Owl Scarecrows for AT",
+  "Author": "zoniventris",
+  "Version": "1.0.0",
+  "Description": "Conversion of Ankokou's Owl Scarecrows for Alternative Textures.",
+  "UniqueID": "zoniventris.updates.owlscarecrows",
+  "UpdateKeys": [],
+  "Dependencies": [],
+  "ContentPackFor": {
+    "UniqueID": "PeacefulEnd.AlternativeTextures",
+    "MinimumVersion": "4.5.3"
+  }
+}

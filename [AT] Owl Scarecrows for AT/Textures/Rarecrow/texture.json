@@ -1,0 +1,41 @@
+{
+  "ItemName": "Rarecrow",
+  "Type": "Craftable",
+  "TextureWidth": 16,
+  "TextureHeight": 32,
+  "Keywords": [ "Owl" ],
+  "ManualVariations": [
+	{
+		"Id": 0,
+		"Name": "Barn Owl"
+	},
+	{
+		"Id": 1,
+		"Name": "Eagle-Owl"
+	},
+	{
+		"Id": 2,
+		"Name": "Scops Owl"
+	},
+	{
+		"Id": 3,
+		"Name": "Snowy Owl"
+	},
+	{
+		"Id": 4,
+		"Name": "Barred Owl"
+	},
+	{
+		"Id": 5,
+		"Name": "Burrowing Owl"
+	},
+	{
+		"Id": 6,
+		"Name": "Great Horned Owl"
+	},
+	{
+		"Id": 7,
+		"Name": "Long-Eared Owl"
+	}
+  ]
+}

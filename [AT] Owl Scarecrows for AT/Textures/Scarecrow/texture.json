@@ -1,0 +1,14 @@
+{
+  "ItemName": "Scarecrow",
+  "Type": "Craftable",
+  "TextureWidth": 16,
+  "TextureHeight": 32,
+  "Keywords": [ "Owl" ],
+  "Manual Variations": [
+	{
+		"Id": 0,
+		"Name": "Wooden Owl",
+		"ChanceWeight": 0.5
+	}
+  ]
+}
